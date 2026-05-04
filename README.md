@@ -53,7 +53,7 @@
 ###
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180"/><br>
+  <img src="./profile/stats.svg" height="180"/><br><br>
   <img src="./profile/top-langs.svg" height="180"/>
 </p>
 
