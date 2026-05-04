@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">- Studying Computer Science student at FAST NUCES<br>- Aspiring Game Developer</p>
+<p align="left">- Computer Science student at FAST NUCES<br>- Aspiring Game Developer</p>
 
 ###
 
@@ -53,5 +53,6 @@
 ###
 
 ![Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ###
