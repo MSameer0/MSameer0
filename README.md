@@ -145,15 +145,6 @@ Currently in my **2nd semester**, I'm focused on improving my software engineeri
   <img src="https://img.shields.io/badge/Upstash_Redis-00E9A3?style=for-the-badge&logo=upstash&logoColor=black" />
 </p>
 
-### Tools & Platforms
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
 ---
 
 ## 📈 Experience
