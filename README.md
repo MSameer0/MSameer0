@@ -189,7 +189,7 @@ Currently in my **2nd semester**, I'm focused on improving my software engineeri
 ---
 
 <p align="center">
-  <b>Always learning, building, and shipping new projects.</b>
+  <b>Always learning and building.</b>
 </p>
 
 <div align="center">
