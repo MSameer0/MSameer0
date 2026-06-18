@@ -131,6 +131,9 @@ Currently in my **2nd semester**, I'm focused on improving my software engineeri
   <img src="https://img.shields.io/badge/LibGDX-EA1D2C?style=for-the-badge&logo=libgdx&logoColor=white" />
   <img src="https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" />
   <img src="https://img.shields.io/badge/SDL2-17354C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLFW-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GLEW-555555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Minecraft_Modding-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
 </p>
 
