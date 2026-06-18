@@ -150,19 +150,6 @@ Currently in my **2nd semester**, I'm focused on improving my software engineeri
 
 ---
 
-## 📈 Experience
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Programming-Before_University-4B8BBE?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Minecraft-Mod_Development-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Freelance-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open_Source-Project_Maintenance-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Development-Solo_&_Team-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cross_Platform-Software_Development-007ACC?style=for-the-badge" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
